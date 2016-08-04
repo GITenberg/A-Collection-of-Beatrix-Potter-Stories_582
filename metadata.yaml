@@ -1,0 +1,37 @@
+_repo: A-Collection-of-Beatrix-Potter-Stories_582
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Potter, Beatrix
+    aliases:
+    - Heelis, Beatrix
+    - Potter, Helen Beatrix
+    birthdate: 1866
+    deathdate: 1943
+    gutenberg_agent_id: '292'
+    url: http://www.gutenberg.org/2009/agents/292
+    wikipedia: http://en.wikipedia.org/wiki/Beatrix_Potter
+description: A Collection of Beatrix Potter Stories - The Original Classic Edition.
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '1996-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '582'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories, English'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The Tale of Peter Rabbit -- The Tale of Benjamin Bunny -- The Tale
+  of Mrs. Tiggy-Winkle -- The Tale of Mr. Jeremy Fisher-- The Tale of Jemima Puddle-Duck
+  -- The Tale of the Flopsy Bunnies -- The Tale of Two Bad Mice -- The Tale of Timmy
+  Tiptoes -- The Tale of Mr. Tod -- The Tale of Pigling Bland -- The Roly Poly Pudding
+  -- The Pie and the Patty-pan -- Ginger and Pickles -- The Story of Miss Moppet
+title: A Collection of Beatrix Potter Stories
+url: http://www.gutenberg.org/ebooks/582
